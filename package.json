@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Node Application UT Coding Bootcamp 2016",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathrynethompson/liri-node-app.git"
+  },
+  "author": "KT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathrynethompson/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/kathrynethompson/liri-node-app#readme"
+}
